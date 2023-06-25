@@ -1,0 +1,24 @@
+*{margin:0;padding:0;}
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.color-icons{
+    color: #daff01;
+}
+
+.color-text{
+    color: white;
+}
+
+.color-text2{
+    color: #cccccc;
+}
+
+.botao-color{
+    background-color: #9353ff;
+}
